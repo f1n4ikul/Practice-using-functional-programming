@@ -1,4 +1,3 @@
-# Глобальные переменные для хранения состояния игры
 lower_bound = None
 upper_bound = None
 current_guess = None
